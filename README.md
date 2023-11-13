@@ -11,6 +11,10 @@ I'm Nebula, just a random person on the internet.
 - Python
 - C++
 - C#
+- Java
+- TypeScript
+- JavaScript
+- Rust
 
 Here's a snippet of my code:
 
